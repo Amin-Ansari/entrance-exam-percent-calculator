@@ -6,8 +6,7 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 html {
-  background: url(../images/14000530000028_Test_PhotoN.jpg) no-repeat center
-    center;
+  background: url(../images/14000530000028_Test_PhotoN.jpg) no-repeat center;
   background-size: cover;
   height: 100vh;
 }
